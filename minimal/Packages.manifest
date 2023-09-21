@@ -4,12 +4,12 @@ Depends: libc, coreutils, coreutils-base64, coreutils-nohup, curl, chinadns-ng, 
 Source: feeds/passwall/luci-app-passwall
 SourceName: luci-app-passwall
 Section: luci
-SourceDateEpoch: 1695285389
+SourceDateEpoch: 1695313074
 Maintainer: OpenWrt LuCI community
 Architecture: all
-Installed-Size: 990927
+Installed-Size: 984259
 Filename: luci-app-passwall_4.70-9_all.ipk
-Size: 991179
-SHA256sum: 9a7cc87292430ffe28d46fd2e6fb0dc3f6f7ad651cbc7bed29854ea82431d3de
+Size: 984396
+SHA256sum: 52e37b4426d6c8d4f24229523fbef1223ce4a51782f3c50f34559f5a44b241b0
 Description:  LuCI support for PassWall
 
