@@ -1,15 +1,15 @@
 Package: luci-app-passwall
-Version: 4.70-9
+Version: 4.71-0
 Depends: libc, coreutils, coreutils-base64, coreutils-nohup, curl, chinadns-ng, dns2socks, dns2tcp, ip-full, libuci-lua, lua, luci-compat, luci-lib-jsonc, microsocks, resolveip, tcping, unzip 
 Source: feeds/passwall/luci-app-passwall
 SourceName: luci-app-passwall
 Section: luci
-SourceDateEpoch: 1695376836
+SourceDateEpoch: 1695390487
 Maintainer: OpenWrt LuCI community
 Architecture: all
-Installed-Size: 984307
-Filename: luci-app-passwall_4.70-9_all.ipk
-Size: 984607
-SHA256sum: a2987551f0d1ad78b3e9ad41af866535d058bb158e35e128acd64d44401c0ddf
+Installed-Size: 984359
+Filename: luci-app-passwall_4.71-0_all.ipk
+Size: 984585
+SHA256sum: f41dd365fb427aefcac5f334c86c0f82e34f678c611524b61ee7c127afac022a
 Description:  LuCI support for PassWall
 
